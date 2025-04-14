@@ -1,2 +1,2 @@
 1.0.4
-http://github.com/XxKaliX/CloudServer/raw/main/KALI-BP.exe
+https://github.com/XxKaliX/CloudServer/raw/main/KALI-BP.exe
