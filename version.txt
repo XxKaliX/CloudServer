@@ -1,2 +1,2 @@
 1.0.1
-blob:https://github.com/61e5b5bb-6a43-4a18-b739-8a07e50df8ba
+https://github.com/XxKaliX/CloudServer/raw/5255a966ea47a4c374b74d1394a8a73a9b14f14c/KALI-BP.exe
